@@ -41,7 +41,7 @@ Projekt wykonany w ramach studiów.
 
 3. **Analiza ogólna:**  
    - zliczenie tweetów w czasie i przedstawienie trendów
-   - wizualizacje chmur słów dla najczęściej używanych słów  
+   - wizualizacje chmur najczęściej używanych słów  
 
 4. **Analiza sentymentu – dwa podejścia:**  
    - **VADER (NLTK):** klasyfikacja tweetów jako pozytywne, negatywne lub neutralne
