@@ -10,11 +10,19 @@ Celem badania było zrozumienie, jak użytkownicy Twittera reagowali emocjonalni
 - tweety dotyczące **Hailey Bieber**  
 - tweety dotyczące ich **obu razem**  
 
-Projekt został zrealizowany w języku **Python** z wykorzystaniem bibliotek do analizy tekstu i przetwarzania języka naturalnego:  
-`snscrape`, `pandas`, `nltk`, `wordcloud`, `matplotlib`, `plotly`, `NRCLex`. [Czerwiec 2023]
+Projekt został zrealizowany w języku **Python** z wykorzystaniem bibliotek do analizy tekstu i przetwarzania języka naturalnego. [Czerwiec 2023]
  
-Projekt wykonany w ramach studiów.  
+Projekt wykonany w ramach studiów. 
 
+## Wykorzystane biblioteki:
+   - pandas
+   - snscrape
+   - pandas
+   - nltk
+   - wordcloud
+   - matplotlib
+   - plotly
+   - NRCLex
 ---
 
 ## Etapy analizy:  
