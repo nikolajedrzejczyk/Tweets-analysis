@@ -14,6 +14,8 @@ Projekt został zrealizowany w języku **Python** z wykorzystaniem bibliotek do 
  
 Projekt wykonany w ramach studiów. 
 
+--- 
+
 ## Wykorzystane biblioteki:
    - pandas
    - snscrape
