@@ -19,20 +19,20 @@ Projekt wykonany w ramach studiów.
 
 ## Etapy analizy:  
 1. **Pobranie danych z Twittera:**  
-   - zastosowano `snscrape` do pozyskania tweetów z wybranego okresu,  
-   - pobrano osobno tweety o Selenie, Hailey oraz o nich razem,  
-   - utworzono listy i ramki danych dla dalszej analizy.  
+   - zastosowano `snscrape` do pozyskania tweetów z wybranego okresu  
+   - pobrano osobno tweety o Selenie, Hailey oraz o nich razem
+   - utworzono listy i ramki danych dla dalszej analizy
 
 2. **Wstępne przetwarzanie danych (preprocessing):**  
-   - czyszczenie treści tweetów (usunięcie linków, hashtagów, znaków specjalnych, emotikonów, nazw użytkowników),  
-   - normalizacja tekstu (zamiana na małe litery),  
-   - tokenizacja i usunięcie stopwords,  
-   - lematyzacja słów.  
+   - czyszczenie treści tweetów 
+   - normalizacja tekstu
+   - tokenizacja i usunięcie stopwords  
+   - lematyzacja słów
 
 3. **Analiza ogólna:**  
-   - zliczenie tweetów w czasie i przedstawienie trendów,  
-   - wizualizacje chmur słów dla najczęściej używanych słów.  
+   - zliczenie tweetów w czasie i przedstawienie trendów
+   - wizualizacje chmur słów dla najczęściej używanych słów  
 
 4. **Analiza sentymentu – dwa podejścia:**  
-   - **VADER (NLTK):** klasyfikacja tweetów jako pozytywne, negatywne lub neutralne,  
+   - **VADER (NLTK):** klasyfikacja tweetów jako pozytywne, negatywne lub neutralne
    - **NRC Lexicon (NRCLex):** identyfikacja
